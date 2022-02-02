@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Gr00veBug AKA Tyler Couch
+- 👀 I’m interested in cyber security, scripting
+- 🌱 I’m currently learning python and cyber security methodology
+- 📫 How to reach me, email me: tyler DOT couch30271 AT gmai1 DOT com
